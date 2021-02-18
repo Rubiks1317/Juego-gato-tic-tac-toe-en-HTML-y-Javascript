@@ -1,3 +1,9 @@
+/*******************************
+  Este codigo se baso en el codigo del juego de Gato
+  presentado en el libro 'Programe Juegos con HTML5 de
+  Francisco Javier Arce Anguiano'
+*******************************/
+
 'use strict'
 /************************
     VARIABLES GLOBALES
